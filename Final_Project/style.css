@@ -1,0 +1,42 @@
+.food-contain{
+text-align: center;
+padding:60px;
+
+}
+.food-input{
+padding:22px 15px;
+}
+#search-btn{
+    padding:18px 10px;
+    font-size: 20px;
+    color: white;
+    border: none;
+    background-color: rgb(21, 102, 102);
+}
+#total-meal{
+    color:blueviolet;
+}
+.tm{
+    text-align: center;
+}
+.box{
+    width:300px;
+    height:410px;
+    padding:10px;
+    border:1px solid black;
+   text-align: center;
+    margin:10px;
+   
+}
+#meals-container{
+    display: flex;
+   flex-wrap: wrap;
+   justify-content:space-around;
+   align-items: center;
+    
+}
+.img{
+    width:280px;
+    height:200px;
+   
+}

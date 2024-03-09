@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bdr{
+    border-radius: 1rem; 
+    background-color: rgb(26, 83, 21);
+    color:bisque; 
+    align-items: center;
+    justify-content: center;
+    width: 350px;
+    height: 150px;
+    margin-left: 600px;
+    margin-top: 300px;
+
+
+}
+.h1{
+    text-align: center;
+}
+.inp{
+    display:flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+
+}
+.mar{
+    margin-top: 20px;
+    margin-left:5px;
+}
